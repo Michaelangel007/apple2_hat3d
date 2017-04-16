@@ -1,6 +1,10 @@
-# Atari, er, Applesoft Hat 3D
+# Hats off to Atari, er, Applesoft -- Hat 3D
 
-![Hat 3D](hat3d.png)
+* ![Hat 3D Solid](hat3d.png)
+
+* ![Hat 3D Wireframe](wireframe.png)
+
+To see wireframe mode delete Line 240 via: `240` &#x23ce;
 
 ## Applesoft
 

@@ -42,8 +42,8 @@ To see wireframe mode delete Line 240 via: `240` &#x23ce;
 
 ### Javascript
 
-* [Javascript (HTML Preview](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Michaelangel007/appl2_hat3d/js/hat3d.html)
-* [Javascript (Raw Git Preview](https://cdn.rawgit.com/Michaelangel007/apple2_hat3d/js/hat3d.html)
+* [Javascript (HTML Preview)](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Michaelangel007/apple2_hat3d/master/js/hat3d.html)
+* [Javascript (Raw Git Preview)](https://cdn.rawgit.com/Michaelangel007/apple2_hat3d/master/js/hat3d.html)
 
 ```Javascript
     function hat( color, isSolid )
